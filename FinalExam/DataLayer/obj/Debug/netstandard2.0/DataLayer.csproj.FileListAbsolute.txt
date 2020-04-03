@@ -1,0 +1,11 @@
+C:\Users\areghu\FinalExam\FinalExam\DataLayer\obj\Debug\netstandard2.0\DataLayer.csprojAssemblyReference.cache
+C:\Users\areghu\FinalExam\FinalExam\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\areghu\FinalExam\FinalExam\DataLayer\obj\Debug\netstandard2.0\DataLayer.AssemblyInfo.cs
+C:\Users\areghu\FinalExam\FinalExam\DataLayer\bin\Debug\netstandard2.0\DataLayer.deps.json
+C:\Users\areghu\FinalExam\FinalExam\DataLayer\bin\Debug\netstandard2.0\DataLayer.dll
+C:\Users\areghu\FinalExam\FinalExam\DataLayer\bin\Debug\netstandard2.0\DataLayer.pdb
+C:\Users\areghu\FinalExam\FinalExam\DataLayer\bin\Debug\netstandard2.0\EFCore.dll
+C:\Users\areghu\FinalExam\FinalExam\DataLayer\bin\Debug\netstandard2.0\EFCore.pdb
+C:\Users\areghu\FinalExam\FinalExam\DataLayer\obj\Debug\netstandard2.0\DataLayer.csproj.CopyComplete
+C:\Users\areghu\FinalExam\FinalExam\DataLayer\obj\Debug\netstandard2.0\DataLayer.dll
+C:\Users\areghu\FinalExam\FinalExam\DataLayer\obj\Debug\netstandard2.0\DataLayer.pdb

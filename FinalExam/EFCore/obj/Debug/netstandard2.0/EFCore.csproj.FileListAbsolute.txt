@@ -1,0 +1,8 @@
+C:\Users\areghu\FinalExam\FinalExam\EFCore\bin\Debug\netstandard2.0\EFCore.deps.json
+C:\Users\areghu\FinalExam\FinalExam\EFCore\bin\Debug\netstandard2.0\EFCore.dll
+C:\Users\areghu\FinalExam\FinalExam\EFCore\obj\Debug\netstandard2.0\EFCore.AssemblyInfoInputs.cache
+C:\Users\areghu\FinalExam\FinalExam\EFCore\obj\Debug\netstandard2.0\EFCore.AssemblyInfo.cs
+C:\Users\areghu\FinalExam\FinalExam\EFCore\obj\Debug\netstandard2.0\EFCore.csprojAssemblyReference.cache
+C:\Users\areghu\FinalExam\FinalExam\EFCore\bin\Debug\netstandard2.0\EFCore.pdb
+C:\Users\areghu\FinalExam\FinalExam\EFCore\obj\Debug\netstandard2.0\EFCore.dll
+C:\Users\areghu\FinalExam\FinalExam\EFCore\obj\Debug\netstandard2.0\EFCore.pdb
