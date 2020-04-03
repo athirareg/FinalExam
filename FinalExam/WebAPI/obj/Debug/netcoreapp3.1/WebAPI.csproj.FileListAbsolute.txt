@@ -56,5 +56,3 @@ C:\Users\areghu\FinalExam\FinalExam\WebAPI\bin\Debug\netcoreapp3.1\Microsoft.Ope
 C:\Users\areghu\FinalExam\FinalExam\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\areghu\FinalExam\FinalExam\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\areghu\FinalExam\FinalExam\WebAPI\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\areghu\FinalExam\FinalExam\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\areghu\FinalExam\FinalExam\WebAPI\obj\Debug\netcoreapp3.1\WebAPI.MvcApplicationPartsAssemblyInfo.cache
